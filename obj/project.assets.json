@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlphaPaiN\\Documents\\dev\\Jakenpo\\Jakenpo.csproj",
-      "projectName": "Jakenpo",
-      "projectPath": "C:\\Users\\AlphaPaiN\\Documents\\dev\\Jakenpo\\Jakenpo.csproj",
+      "projectUniqueName": "C:\\Users\\AlphaPaiN\\dev\\Calculator\\Jokenpo.csproj",
+      "projectName": "Jokenpo",
+      "projectPath": "C:\\Users\\AlphaPaiN\\dev\\Calculator\\Jokenpo.csproj",
       "packagesPath": "C:\\Users\\AlphaPaiN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlphaPaiN\\Documents\\dev\\Jakenpo\\obj\\",
+      "outputPath": "C:\\Users\\AlphaPaiN\\dev\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlphaPaiN\\Documents\\dev\\Calculator\\Jakenpo.csproj": {}
+    "C:\\Users\\AlphaPaiN\\dev\\Calculator\\Jokenpo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlphaPaiN\\Documents\\dev\\Calculator\\Jakenpo.csproj": {
+    "C:\\Users\\AlphaPaiN\\dev\\Calculator\\Jokenpo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlphaPaiN\\Documents\\dev\\Calculator\\Jakenpo.csproj",
-        "projectName": "Jakenpo",
-        "projectPath": "C:\\Users\\AlphaPaiN\\Documents\\dev\\Calculator\\Jakenpo.csproj",
+        "projectUniqueName": "C:\\Users\\AlphaPaiN\\dev\\Calculator\\Jokenpo.csproj",
+        "projectName": "Jokenpo",
+        "projectPath": "C:\\Users\\AlphaPaiN\\dev\\Calculator\\Jokenpo.csproj",
         "packagesPath": "C:\\Users\\AlphaPaiN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlphaPaiN\\Documents\\dev\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\AlphaPaiN\\dev\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

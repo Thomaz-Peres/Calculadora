@@ -11,3 +11,16 @@ C:\Users\AlphaPaiN\Documents\dev\Jakenpo\obj\Debug\netcoreapp3.1\Jakenpo.csproj.
 C:\Users\AlphaPaiN\Documents\dev\Jakenpo\obj\Debug\netcoreapp3.1\Jakenpo.dll
 C:\Users\AlphaPaiN\Documents\dev\Jakenpo\obj\Debug\netcoreapp3.1\Jakenpo.pdb
 C:\Users\AlphaPaiN\Documents\dev\Jakenpo\obj\Debug\netcoreapp3.1\Jakenpo.genruntimeconfig.cache
+C:\Users\AlphaPaiN\Documents\dev\Calculator\bin\Debug\netcoreapp3.1\Jakenpo.exe
+C:\Users\AlphaPaiN\Documents\dev\Calculator\bin\Debug\netcoreapp3.1\Jakenpo.deps.json
+C:\Users\AlphaPaiN\Documents\dev\Calculator\bin\Debug\netcoreapp3.1\Jakenpo.runtimeconfig.json
+C:\Users\AlphaPaiN\Documents\dev\Calculator\bin\Debug\netcoreapp3.1\Jakenpo.runtimeconfig.dev.json
+C:\Users\AlphaPaiN\Documents\dev\Calculator\bin\Debug\netcoreapp3.1\Jakenpo.dll
+C:\Users\AlphaPaiN\Documents\dev\Calculator\bin\Debug\netcoreapp3.1\Jakenpo.pdb
+C:\Users\AlphaPaiN\Documents\dev\Calculator\obj\Debug\netcoreapp3.1\Jakenpo.csprojAssemblyReference.cache
+C:\Users\AlphaPaiN\Documents\dev\Calculator\obj\Debug\netcoreapp3.1\Jakenpo.AssemblyInfoInputs.cache
+C:\Users\AlphaPaiN\Documents\dev\Calculator\obj\Debug\netcoreapp3.1\Jakenpo.AssemblyInfo.cs
+C:\Users\AlphaPaiN\Documents\dev\Calculator\obj\Debug\netcoreapp3.1\Jakenpo.csproj.CoreCompileInputs.cache
+C:\Users\AlphaPaiN\Documents\dev\Calculator\obj\Debug\netcoreapp3.1\Jakenpo.dll
+C:\Users\AlphaPaiN\Documents\dev\Calculator\obj\Debug\netcoreapp3.1\Jakenpo.pdb
+C:\Users\AlphaPaiN\Documents\dev\Calculator\obj\Debug\netcoreapp3.1\Jakenpo.genruntimeconfig.cache

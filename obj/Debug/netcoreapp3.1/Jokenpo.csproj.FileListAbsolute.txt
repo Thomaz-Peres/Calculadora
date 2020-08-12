@@ -1,0 +1,13 @@
+C:\Users\AlphaPaiN\dev\Calculator\bin\Debug\netcoreapp3.1\Jokenpo.exe
+C:\Users\AlphaPaiN\dev\Calculator\bin\Debug\netcoreapp3.1\Jokenpo.deps.json
+C:\Users\AlphaPaiN\dev\Calculator\bin\Debug\netcoreapp3.1\Jokenpo.runtimeconfig.json
+C:\Users\AlphaPaiN\dev\Calculator\bin\Debug\netcoreapp3.1\Jokenpo.runtimeconfig.dev.json
+C:\Users\AlphaPaiN\dev\Calculator\bin\Debug\netcoreapp3.1\Jokenpo.dll
+C:\Users\AlphaPaiN\dev\Calculator\bin\Debug\netcoreapp3.1\Jokenpo.pdb
+C:\Users\AlphaPaiN\dev\Calculator\obj\Debug\netcoreapp3.1\Jokenpo.csprojAssemblyReference.cache
+C:\Users\AlphaPaiN\dev\Calculator\obj\Debug\netcoreapp3.1\Jokenpo.AssemblyInfoInputs.cache
+C:\Users\AlphaPaiN\dev\Calculator\obj\Debug\netcoreapp3.1\Jokenpo.AssemblyInfo.cs
+C:\Users\AlphaPaiN\dev\Calculator\obj\Debug\netcoreapp3.1\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\AlphaPaiN\dev\Calculator\obj\Debug\netcoreapp3.1\Jokenpo.dll
+C:\Users\AlphaPaiN\dev\Calculator\obj\Debug\netcoreapp3.1\Jokenpo.pdb
+C:\Users\AlphaPaiN\dev\Calculator\obj\Debug\netcoreapp3.1\Jokenpo.genruntimeconfig.cache
